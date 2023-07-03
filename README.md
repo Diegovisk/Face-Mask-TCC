@@ -1,6 +1,6 @@
 # Face Mask Detection.
 
-Python version: 3.8.17
+Python version: 3.8.17<br/>
 Ultralytics version: 8.0.124
 
 ## Source for separated datasets:
