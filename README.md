@@ -1,5 +1,7 @@
 # Face Mask Detection.
 
+Python version: 3.8.17
+
 ## Source for separated datasets:
 https://www.kaggle.com/alexandralorenzo/maskdetection
 https://www.kaggle.com/aditya276/face-mask-dataset-yolo-format

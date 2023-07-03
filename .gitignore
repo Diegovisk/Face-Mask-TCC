@@ -1,2 +1,8 @@
 */data/**/*
 !*/data/README.md
+settings.yaml
+*/artifacts/
+*.pt
+.ipynb_checkpoints
+__pycache__
+Arial.ttf
