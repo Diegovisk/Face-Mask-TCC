@@ -1,6 +1,7 @@
 # Face Mask Detection.
 
 Python version: 3.8.17
+Ultralytics version: 8.0.124
 
 ## Source for separated datasets:
 https://www.kaggle.com/alexandralorenzo/maskdetection
@@ -15,6 +16,8 @@ AIZOO Face Mask dataset can be found at: [https://github.com/AIZOOTech/FaceMaskD
 Data from the combined dataset can be downloaded with Roboflow in the adequate format.
 
 Data from the AIZOO dataset may need to be converted to the correct format.
+
+More instructions are in the notebooks for each model's setup.
 
 ## Project goal:
 Train YoloV8 and YoloNAS on the combined dataset, and then re-train its weights with AIZOO Dataset. Compare results to state-of-the-art works and try to perform better. 
